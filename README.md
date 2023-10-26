@@ -1,13 +1,11 @@
 # HTML-CSS-Mini-Course
 
-За курса :
+The aim of the course "HTML & CSS" is an initial introduction to HTML5 and CSS3 technologies. You will gain a basic knowledge of web development, web browsers, HTML & CSS development tools and develop practical skills in using the HTML web content description language and CSS web content styling language.
 
-Целта на курса "HTML & CSS" е начално запознаване и увод в технологиите HTML5 и CSS3. Придобиват се начални знания в уеб разработката, уеб браузъри, инструменти за HTML & CSS  разработка и се развиват практически умения за използване на езика за описание на уеб съдържание HTML и езика за стилизиране на уеб съдържание CSS.
+When looking at HTML, attention is paid to basic HTML tags, paragraphs, lists, tables, forms and controls and semantic HTML tags.
 
-При разглеждането на HTML се обръща внимание на основните HTML тагове, параграфи, списъци, таблици, форми и контроли и таговете за семантичен HTML.
+When studying CSS, attention is paid to basic CSS selectors and styles, working with classes, presentation rules, positioning and view rules in CSS.
 
-При изучаването на CSS се обръща внимание на основните CSS селектори и стилове, работа с класове, презентационни правила, правила за позициониране и изглед в CSS.
+The course concludes with a hands-on Workshop and building a complete page with HTML and CSS.
 
-Курсът завършва с практически Workshop и изграждане на цялостна страница с HTML и CSS.
 
-Преподавател : Антония Атанасова
